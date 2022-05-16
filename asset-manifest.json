@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.6df49f9b.css",
-    "main.js": "/static/js/main.031a0df4.js",
-    "index.html": "/index.html",
-    "main.6df49f9b.css.map": "/static/css/main.6df49f9b.css.map",
-    "main.031a0df4.js.map": "/static/js/main.031a0df4.js.map"
+    "main.css": "/React-Funcional/static/css/main.6df49f9b.css",
+    "main.js": "/React-Funcional/static/js/main.031a0df4.js",
+    "index.html": "/React-Funcional/index.html",
+    "main.6df49f9b.css.map": "/React-Funcional/static/css/main.6df49f9b.css.map",
+    "main.031a0df4.js.map": "/React-Funcional/static/js/main.031a0df4.js.map"
   },
   "entrypoints": [
     "static/css/main.6df49f9b.css",
